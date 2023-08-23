@@ -1,0 +1,21 @@
+h1{
+    color:brown;
+}
+div {
+    background-color:beige; 
+    text-align: center;
+}
+div p {
+    color: rgb(201, 115, 46); 
+    font-family:fantasy ; 
+    margin: 45px 0px 45px 0px;
+}
+.imagen {
+    border: 5px solid brown; 
+}
+h2 {
+    background-color:beige;
+    font-family: fantasy;
+    color: brown;
+    text-align: center;
+}
